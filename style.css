@@ -7,6 +7,15 @@ body {
   line-height: 1.6;
 }
 
+header {
+  text-align: center;
+  padding: 1rem;
+  background-color: #ffe8e8;
+  color: #5e2d2d;
+  margin-top: 2rem;
+  font-size: 20pt;
+}
+
 nav {
   background-color: #ffe8e8; /* soft muted red */
   padding: 1rem;
@@ -55,11 +64,4 @@ p, li {
   font-style: italic;
 }
 
-header {
-  text-align: center;
-  padding: 1rem;
-  background-color: #ffe8e8;
-  color: #5e2d2d;
-  margin-top: 2rem;
-  font-size: 20pt;
-}
+
