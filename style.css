@@ -1,0 +1,65 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #fff7f8; /* light blush pink */
+  color: #3a3a3a;
+  margin: 0;
+  padding: 0 1rem;
+  line-height: 1.6;
+}
+
+nav {
+  background-color: #ffe8e8; /* soft muted red */
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: #a64d4d; /* dark muted red */
+  text-decoration: none;
+  margin: 0 1rem;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1, h2 {
+  font-size: 20pt;
+  color: #c94c63; /* dark pink */
+  margin-top: 2rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+  font-size: 17pt;
+}
+
+p, li {
+  font-size: 13pt;
+}
+
+.section {
+  margin: 2rem 0;
+  background-color: #fff0f5; /* light muted pink */
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.highlight {
+  background-color: #fff9e6; /* soft yellow */
+  padding: 0.5rem;
+  border-left: 4px solid #f0c36d; /* muted mustard */
+  margin-top: 1rem;
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #ffe8e8;
+  color: #5e2d2d;
+  margin-top: 2rem;
+  font-size: 12pt;
+}
