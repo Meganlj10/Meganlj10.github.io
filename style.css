@@ -69,13 +69,11 @@ p, li {
   flex-wrap: wrap;
   gap: 10px;
   margin-top: 10px;
-  justify-content: center;
 }
 
 .starter-images img {
   width: 100%;
   max-width: 250px;
   border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
-
